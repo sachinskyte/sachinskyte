@@ -1,4 +1,4 @@
-<h1 align="center">Hi , I'm Sachin Patel</h1>
+<h1 align="center">Hi 👋, I'm Sachin Patel</h1>
 <h3 align="center">A passionate AI/ML developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sachinskyte&label=Profile%20views&color=7a9ce1&style=plastic" alt="sachinskyte" /> </p>
