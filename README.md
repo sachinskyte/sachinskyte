@@ -11,13 +11,6 @@
 - 👯 I'm looking to collaborate on **AI/ML projects**
 - 📫 How to reach me: **sachinpatel09628@gmail.com**
 
-## 📱 Connect with me:
-<p align="left">
-<a href="https://www.linkedin.com/in/sachin-patel-043538305/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sachin-patel-043538305" height="30" width="40" /></a>
-<a href="https://www.instagram.com/akatsukkiiiiii" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="akatsukkiiiiii" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/sachinskyte" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="sachinskyte" height="30" width="40" /></a>
-</p>
-
 ## 💻 Languages and Tools:
 <p align="left"> 
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> 
