@@ -1,7 +1,3 @@
-<div align="center">
-  <img src="banner_github.png" alt="Sachin Patel" width="100%" />
-</div>
-
 <h1 align="center">Hi 👋, I'm Sachin Patel</h1>
 <h3 align="center">A passionate AI/ML developer from India</h3>
 
@@ -49,7 +45,4 @@
     <img alt="github-snake" src="https://raw.githubusercontent.com/sachinskyte/sachinskyte/output/github-snake.svg" />
   </picture>
 </div>
-
----
-⭐️ From [sachinskyte](https://github.com/sachinskyte)
 
